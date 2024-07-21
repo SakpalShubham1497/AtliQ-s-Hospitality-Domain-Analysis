@@ -4,7 +4,7 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data.
 
 As a Power BI Analyst
-1. I have created the metrics according to the metric list.
+1. I have created the metrics according to the metric list
 2.Created a dashboard according to the mock-up provided by stakeholders.
 3.Created relevant insights that are not provided in the metric list/mock-up dashboard.
 
